@@ -1,0 +1,9 @@
+.similar-card-item {
+  background-color: #272727;
+  padding: 8px;
+  flex-basis: 35%;
+}
+
+.ratings-container p {
+  margin-bottom: 0px;
+}

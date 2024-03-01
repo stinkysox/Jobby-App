@@ -1,0 +1,64 @@
+.company-logo-rating-container {
+  display: flex;
+  align-items: center;
+}
+.company-logo-rating-container img {
+  height: 100px;
+}
+
+.company-logo-rating-container h1 {
+  margin: 4px;
+}
+
+.company-logo-rating-container p {
+  margin-left: 8px;
+}
+
+.ratings-container {
+  display: flex;
+  align-items: center;
+}
+
+.card-item {
+  background-color: #272727;
+  padding: 18px;
+  border-radius: 8px;
+  width: 80%;
+  margin: auto;
+  margin-bottom: 12px;
+}
+
+.type-salary-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 16px;
+}
+
+.location-container {
+  display: flex;
+  align-items: center;
+}
+
+.location-container p {
+  margin: 12px;
+}
+
+.card-text-container {
+  padding-left: 10px;
+}
+
+.description-container p {
+  font-size: 14px;
+  font-family: 'roboto';
+  line-height: 22px;
+}
+
+.description-container h1 {
+  font-weight: normal;
+  font-size: 24px;
+}
+
+.link-element {
+  text-decoration: none;
+}
