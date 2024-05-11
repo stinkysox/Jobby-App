@@ -1,0 +1,8 @@
+.not-found-container {
+  height: 100vh;
+  background-color: black;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
